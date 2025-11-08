@@ -199,7 +199,7 @@
 
 <!-- PAGE 9 (Princess) -->
 <div id="screenPrincess" class="screen">
-  <img src="princess.png" class="shinchan">
+  <img src="https://github.com/kool00/finaltrial/blob/main/princess.png?raw=true" class="shinchan">
   <div class="text-container">
     <h1>👑 You’re my princess 👑</h1>
     <p>Your beauty shines brighter than anything 💖</p>
